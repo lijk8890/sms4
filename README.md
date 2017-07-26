@@ -1,2 +1,2 @@
 # sms4
-sms4 alg(user space or kernel space)
+sms4 alg(user space and kernel space)
